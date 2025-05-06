@@ -99,7 +99,7 @@
     <tr>
         <th>검색</th>
         <td><img 
-          src="https://github.com/user-attachments/assets/a3cf80e3-3701-459c-8e17-6805cef4cc53" 
+          src="https://github.com/user-attachments/assets/6e75d77b-51c4-49e2-a0ee-e8abd39782a9" 
           alt="Search Diagram" 
           style="width:80%; max-width:400px; display:block; margin:0 auto;"
         /></td>
