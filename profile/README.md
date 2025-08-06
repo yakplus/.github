@@ -145,7 +145,7 @@
     <td width="160px" align="center"><img src="https://github.com/chanbyoung.png" width="50px" /></td>
 <td width="160px" align="center"><img src="https://github.com/HaechangLee.png" width="50px" /></td>
 <td width="160px" align="center"><img src="https://github.com/LEELISE.png" width="50px" /></td>
-<td width="160px" align="center"><img src="https://github.com/YJ-circle.png" width="50px" /></td>
+<td width="160px" align="center"><img src="https://github.com/thelightway24.png" width="50px" /></td>
   </tr>
 
   <tr>
