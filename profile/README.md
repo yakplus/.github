@@ -155,7 +155,7 @@
     </td>
     <td align="center"><a href="https://github.com/LEELISE">정안식</a>
     </td>
-    <td align="center"><a href="https://github.com/YJ-circle">함예정</a>
+    <td align="center"><a href="https://github.com/thelightway24">함예정</a>
     </td>
   </tr>
 </table>
